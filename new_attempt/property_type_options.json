@@ -1,0 +1,20 @@
+{
+  "Room in boutique hotel": "Entire",
+  "Room in hotel": "Entire",
+  "Room in aparthotel": "Entire",
+  "Room in serviced apartment": "Entire",
+  "Tiny house": "Entire",
+  "Camper/RV": "Entire",
+  "Boat": "Entire",
+  "Room in hostel": "Private",
+  "Houseboat": "Entire",
+  "Room in bed and breakfast": "Private",
+  "Room in resort": "Entire",
+  "Cave": "Private",
+  "Barn": "Private",
+  "Casa particular": "Private",
+  "Tipi": "Private",
+  "Bus": "Private",
+  "Lighthouse": "Entire",
+  "Castle": "Entire"
+}

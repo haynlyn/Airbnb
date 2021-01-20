@@ -1,0 +1,79 @@
+(3, "<class 'str'> -> del")
+(8, "<class 'str'> -> del")
+(10, "<class 'float'> -> str")
+
+(15, "<class 'numpy.float64'> -> del")
+(16, "<class 'numpy.float64'> -> del")
+
+(17, "<class 'str'> -> del")
+(18, "<class 'numpy.float64'> -> del")
+
+(22, "<class 'str'> -> datetime")
+
+(25, "<class 'str'> -> int/float (number of hours or amount of a day)")
+
+(26, "<class 'str'> -> float (percentage)")
+
+(27, "<class 'numpy.float64'> -> del")
+
+(28, "<class 'str'> -> bool -> int")
+
+(29, "<class 'str'> -> del")
+(30, "<class 'str'> -> del")
+
+(32, "<class 'numpy.float64'> -> int")
+(33, "<class 'numpy.float64'> -> int (is this the same as the above column?)")
+
+(34, "<class 'str'> -> set")
+
+(35, "<class 'str'> -> bool -> int")
+(36, "<class 'str'> -> bool -> int")
+
+(43, "<class 'str'> -> int")
+
+(44, "<class 'str'> -> str (might be able to delete)")
+
+(46, "<class 'str'> -> del")
+(47, "<class 'str'> -> del")
+
+(50, "<class 'str'> -> bool -> int")
+
+
+(55, "<class 'numpy.float64'> -> float (some are null, so maybe delete them then make int)")
+(56, "<class 'numpy.float64'> -> float (some are null, so maybe delete them then make int)")
+
+(58, "<class 'str'> -> set")
+
+(59, "<class 'numpy.float64'> -> int (most are nul, so maybe del)")
+
+(60, "<class 'str'> -> int")
+(61, "<class 'str'> -> int")
+(62, "<class 'float'> -> int")
+(63, "<class 'str'> -> int")
+(64, "<class 'str'> -> int")
+(66, "<class 'str'> -> int")
+
+(75, "<class 'str'> -> int (number of days, where weeks and months are multiplied by 7 and 30, respectively)")
+(76, "<class 'str'> -> del (all are t)")
+(81, "<class 'str'> -> del")
+
+(84, "<class 'str'> -> datetime (maybe delete because idc)")
+
+(85, "<class 'str'> -> datetime")
+
+(86, "<class 'numpy.float64'> -> int")
+(87, "<class 'numpy.float64'> -> int")
+(88, "<class 'numpy.float64'> -> int")
+(89, "<class 'numpy.float64'> -> int")
+(90, "<class 'numpy.float64'> -> int")
+(91, "<class 'numpy.float64'> -> int")
+(92, "<class 'numpy.float64'> -> int")
+
+(93, "<class 'str'> -> del")
+(94, "<class 'float'> -> del")
+(95, "<class 'float'> -> del")
+
+(96, "<class 'str'> -> bool - int")
+(97, "<class 'str'> -> bool - int")
+(99, "<class 'str'> -> bool - int (maybe drop since about 2.25% require it)")
+(100, "<class 'str'> -> bool - int (maybe drop since about 2.25% require it)")
